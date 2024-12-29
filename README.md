@@ -14,5 +14,5 @@
 ## Запуск
 (Для Linux/MacOS используйте python3 вместо py.)
 
-py lab4.py 
-py lab4client.py 
+- py lab4.py 
+- py lab4client.py 
